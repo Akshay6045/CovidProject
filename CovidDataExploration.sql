@@ -1,5 +1,7 @@
 -- Covid 19 Data exploration 
 
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
 Select *
 From PortfolioProject..CovidDeaths
 Where continent is not null 
